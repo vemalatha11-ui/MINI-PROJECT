@@ -10,4 +10,5 @@ BUSINESS INSIGHTS:
 7- Moderate performance by frank
 Recommedation :
 If we promote the more freeship promotion with minimum order value can have chance of incresing revenue for business and individual sales person aswell.
-<img width="548" height="348" alt="image" src="https://github.com/user-attachments/assets/b8a4b742-9550-4172-b657-17e5d3ed0c63" />
+<img width="648" height="381" alt="image" src="https://github.com/user-attachments/assets/5d2f0516-ec9b-4bdd-891b-79c1d870853d" />
+
